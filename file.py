@@ -1,6 +1,6 @@
 '''
 
-* Author List:       Siddharth Aggarwal,Vipin Bhardwaj
+* Author List:       Siddharth Aggarwal,Vipin Bhardwaj,Chakshu Jain,Neeraj Joshi
 
 * Functions:         overlay, identifyCM, reset, stop_, update_direction, checkZI
 
